@@ -2,7 +2,7 @@ import cv2 as cv
 
 img = cv.imread('Photos/cat_large.jpg')
 # TOO LARGE
-
+        # imshow(Name of the frame, the photo)
 cv.imshow('Cat', img)
 
 cv.waitKey(0)

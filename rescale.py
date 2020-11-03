@@ -46,4 +46,4 @@ capture.release()
 
 # Closes the windows made
 cv.destroyAllWindows()
-cv.waitKey(0)
+cv.waitKey(0)                 # 0 means to wait infinitely (until the window is closed)
