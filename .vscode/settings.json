@@ -1,5 +1,6 @@
 {
-    "python.pythonPath": "C:\\Python38\\python.exe",
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    "python.pythonPath": "C:\\Users\\valcain\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": false,
+    "python.linting.flake8Enabled": true
 }
